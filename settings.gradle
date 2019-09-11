@@ -1,0 +1,2 @@
+include ':app', ':likeview'
+rootProject.name='LikeViewSample'
