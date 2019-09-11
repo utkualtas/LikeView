@@ -1,4 +1,4 @@
-package com.rootylabs.likeview
+package com.utkualtas.likeviewsample
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

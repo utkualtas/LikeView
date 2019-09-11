@@ -1,4 +1,4 @@
-package com.rootylabs.likeview
+package com.utkualtas.likeviewsample
 
 import org.junit.Test
 
